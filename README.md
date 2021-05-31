@@ -1,1 +1,1 @@
-*Emphasize* _This is project 0x02 (Git Project) done by Akinyosoye Kayode for ALX software engineering programme_
+ _This is project done by Akinyosoye Kayode for ALX software engineering programme_
