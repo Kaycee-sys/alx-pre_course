@@ -1,1 +1,1 @@
- _This is project done by Akinyosoye Kayode for ALX software engineering programme_
+ _This is a project done by Akinyosoye Kayode for ALX software engineering programme_
